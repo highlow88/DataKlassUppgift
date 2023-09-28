@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DataKlassUppgift</string>
+
+    <string name="person_name">person</string>
+    <string name="person_age">age</string>
+    <string name="person_address">address</string>
+
+
+    <string-array name="Person">
+        <item>Jonatan Andersson</item>
+        <item>Jennifer Frost</item>
+        <item>Michael Kristersson</item>
+    </string-array>
+
+    <string-array name="Age">
+        <item>30</item>
+        <item>25</item>
+        <item>40</item>
+    </string-array>
+
+    <string-array name="Address">
+        <item>Upplandsgatan 47,Stockholm</item>
+        <item>Ringvägen 38,Södermalm</item>
+        <item>Regeringsgatan 12,Stockholm</item>
+    </string-array>
+</resources>
